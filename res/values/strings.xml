@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GPS Accuracy Plot</string>
+    <string name="title_activity_maps">Map Plot</string>
+    <string name="title_activity_gps">GPS Data</string>
+
+    <string name="accuracy_desc">Horizontal accuracy, defined as the radius of 68% confidence. In other words, if you draw a
+        circle centered at this location\'s latitude and longitude,
+        and with a radius equal to the accuracy, then there is a 68% probability that the true location is inside the circle."</string>
+
+    <string-array name="sample_sizes">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+    </string-array>
+
+    <string-array name="speed_type">
+        <item>m/s</item>
+        <item>mph</item>
+        <item>knots</item>
+    </string-array>
+</resources>
